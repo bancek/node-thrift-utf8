@@ -1,0 +1,21 @@
+{
+  "name": "thrift-utf8",
+  "description": "UTF-8 fix for thrift",
+  "homepage": "https://github.com/bancek/node-thrift-utf8",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bancek/node-thrift-utf8.git"
+  },
+  "version": "0.1.0",
+  "author": {
+    "name": "Luka Zakrajsek",
+    "email": "luka@bancek.net"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "./index.js"
+}
